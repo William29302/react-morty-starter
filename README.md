@@ -36,15 +36,15 @@ En utilisant le starter fourni et en suivant le design fourni, développez une a
    - Mettez en place le routing pour permettre la navigation entre les différentes pages de l'application.
 
 5. **Pagination :**
-   - Mettez en place la pagination pour l'affichage progressif des épisodes ( j'ai choisis une api qui facilite la tâche d'intégration de la pagination, ne me remercier pas :p ).
+   - Mettez en place la pagination pour l'affichage progressif des épisodes ( j'ai choisi une api qui facilite la tâche d'intégration de la pagination, ne me remerciez pas :p ).
 
 ## Livraison
 
-Soumettez votre app sous forme de lien vers un repository GitHub, accompagné d'un fichier README expliquant votre approche, les choix de conception, et les étapes pour exécuter l'application localement. Supprimer le .git ( fichier invisible pour délier le projet et le connecter à votre propre repository ). Penser à ajouter les node_modules dans le gitignore.
+Soumettez votre app sous forme de lien vers un repository GitHub, accompagné d'un fichier README expliquant votre approche, les choix de conception, et les étapes pour exécuter l'application localement. Supprimer le .git ( fichier invisible pour délier le projet et le connecter à votre propre repository ). Pensez à ajouter les node_modules dans le gitignore.
 
 # Informations complémentaires
 
-J'ai préparé un starter mais si vous souhaitez modifier la structure du projet, vous pouvez le faire, Organiser vous comme bon vous semble.
+J'ai préparé un starter mais si vous souhaitez modifier la structure du projet, vous pouvez le faire, Organisez vous comme bon vous semble.
 
 Vous pouvez également utiliser un framework CSS tels que TailwindCSS ou un préprocesseurs tels que SASS.
 

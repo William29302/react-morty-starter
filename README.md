@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/William29302/react-morty.git
-cd react-morty
+cd react-morty-starter
 npm install
 npm run dev
 ```
